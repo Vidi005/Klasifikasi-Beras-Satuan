@@ -1,0 +1,10 @@
+test/pendek/C26.jpg	0
+test/pendek/C27.jpg	0
+test/pendek/C28.jpg	0
+test/pendek/C29.jpg	0
+test/pendek/C30.jpg	0
+test/sedang/I26.jpg	1
+test/sedang/I27.jpg	1
+test/sedang/I28.jpg	1
+test/sedang/I29.jpg	1
+test/sedang/I30.jpg	1
